@@ -1,0 +1,15 @@
+.ResultPage{
+
+        text-align: justify;
+        padding:0 2rem;
+        margin:  2rem 2rem;
+        background-color:#ececec;
+        color: black;
+        border:2px solid black;
+        border-shadow:2px 2px gray;
+        ;        
+}
+
+a{
+        color:black;
+ }

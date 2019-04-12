@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(32, 79, 105);
+    color:white;
+}
+
+.Mainpage{
+    
+    padding:2rem 2rem;
+    margin:1rem auto;
+    font-size:1.5rem;
+    display: inline-block;
+}
+
+.SearchBox{
+ width:85%;
+ height:2rem;
+ border:3px solid blueviolet;
+
+}
+
+.FontAwesome {
+    color:red;
+    position: relative;
+    left: -30px;
+}
+
+a{    color:white;
+    text-decoration: none;
+}
